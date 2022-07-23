@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SFML_Game_Escape_Room_Version_16"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SFML_Game_Escape_Room_Version_16">
+				<Option output="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug/SFML_Game_Escape_Room_Version_16" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include"/>
+					<Add directory="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML"/>
+					<Add directory="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Audio"/>
+					<Add directory="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics"/>
+					<Add directory="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Network"/>
+					<Add directory="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System"/>
+					<Add directory="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Window"/>
+					<Add directory="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/share/SFML/examples/shader"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug/Makefile&quot;  VERBOSE=1 SFML_Game_Escape_Room_Version_16"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SFML_Game_Escape_Room_Version_16/fast">
+				<Option output="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug/SFML_Game_Escape_Room_Version_16" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include"/>
+					<Add directory="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML"/>
+					<Add directory="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Audio"/>
+					<Add directory="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics"/>
+					<Add directory="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Network"/>
+					<Add directory="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System"/>
+					<Add directory="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Window"/>
+					<Add directory="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/share/SFML/examples/shader"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug/Makefile&quot;  VERBOSE=1 SFML_Game_Escape_Room_Version_16/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Audio.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Audio/AlResource.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Audio/Export.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Audio/InputSoundFile.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Audio/Listener.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Audio/Music.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Audio/OutputSoundFile.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Audio/Sound.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Audio/SoundBuffer.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Audio/SoundBufferRecorder.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Audio/SoundFileFactory.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Audio/SoundFileFactory.inl">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Audio/SoundFileReader.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Audio/SoundFileWriter.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Audio/SoundRecorder.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Audio/SoundSource.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Audio/SoundStream.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Config.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/GpuPreference.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/BlendMode.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/CircleShape.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/Color.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/ConvexShape.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/Drawable.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/Export.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/Font.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/Glsl.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/Glsl.inl">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/Glyph.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/Image.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/PrimitiveType.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/Rect.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/Rect.inl">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/RectangleShape.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/RenderStates.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/RenderTarget.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/RenderTexture.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/RenderWindow.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/Shader.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/Shape.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/Sprite.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/Text.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/Texture.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/Transform.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/Transformable.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/Vertex.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/VertexArray.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/VertexBuffer.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Graphics/View.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Main.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Network.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Network/Export.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Network/Ftp.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Network/Http.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Network/IpAddress.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Network/Packet.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Network/Socket.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Network/SocketHandle.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Network/SocketSelector.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Network/TcpListener.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Network/TcpSocket.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Network/UdpSocket.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/OpenGL.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System/Clock.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System/Err.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System/Export.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System/FileInputStream.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System/InputStream.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System/Lock.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System/MemoryInputStream.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System/Mutex.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System/NativeActivity.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System/NonCopyable.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System/Sleep.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System/String.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System/String.inl">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System/Thread.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System/Thread.inl">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System/ThreadLocal.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System/ThreadLocalPtr.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System/ThreadLocalPtr.inl">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System/Time.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System/Utf.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System/Utf.inl">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System/Vector2.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System/Vector2.inl">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System/Vector3.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/System/Vector3.inl">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Window.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Window/Clipboard.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Window/Context.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Window/ContextSettings.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Window/Cursor.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Window/Event.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Window/Export.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Window/GlResource.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Window/Joystick.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Window/Keyboard.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Window/Mouse.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Window/Sensor.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Window/Touch.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Window/VideoMode.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Window/Window.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Window/WindowHandle.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/include/SFML/Window/WindowStyle.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/share/SFML/examples/X11Example/X11.cpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/share/SFML/examples/ftp/Ftp.cpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/share/SFML/examples/island/Island.cpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/share/SFML/examples/joystick/Joystick.cpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/share/SFML/examples/opengl/OpenGL.cpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/share/SFML/examples/pong/Pong.cpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/share/SFML/examples/shader/Effect.hpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/share/SFML/examples/shader/Shader.cpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/share/SFML/examples/sockets/Sockets.cpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/share/SFML/examples/sockets/TCP.cpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/share/SFML/examples/sockets/UDP.cpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/share/SFML/examples/sound-capture/SoundCapture.cpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/share/SFML/examples/sound/Sound.cpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/share/SFML/examples/voip/Client.cpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/share/SFML/examples/voip/Server.cpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/share/SFML/examples/voip/VoIP.cpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/SFML-2.5.1/share/SFML/examples/window/Window.cpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/escapecode.cpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/main.cpp">
+			<Option target="SFML_Game_Escape_Room_Version_16"/>
+		</Unit>
+		<Unit filename="/Users/ananyashekhawat/Downloads/SFML-Game-Escape-Room-Version-16/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
